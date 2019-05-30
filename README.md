@@ -22,8 +22,6 @@ Step 3: Place the file in the DRLND GitHub repository, in the `p3_collab-compet/
 Step 4: Download and install Anaconda ([click here](https://www.anaconda.com/distribution/) for more information)
 
 Step 5: Create and activate a virtual environment ("drlnd") with the following libraries:
-* conda create --name drlnd python=3.6 
-* source activate drlnd
 
 * UnityAgents (ver. 0.4.0) ([click here](https://pypi.org/project/unityagents/) for more information)
 * Numpy ([click here](https://anaconda.org/anaconda/numpy) for more information)
