@@ -7,7 +7,7 @@ For this project, the Unity ML-Agents Tennis simulated environment was used to t
 
 
 ### Environment Details
-The state space consists of 24 variables (3 stacked vector observations of size 8) corresponding to the position and velocity of the ball and racket. Two continuous actions are available, corresponding to movement toward (or away from) the net, and jumping. The actions clipped to between -1 and 1.
+The state space consists of 24 variables (3 stacked vector observations of size 8) corresponding to the position and velocity of the ball and racket. Two continuous actions are available, corresponding to movement toward (or away from) the net, and jumping. The actions are clipped to between -1 and 1.
 
 The environment is considered solved if an average reward (over 100 episodes) of at least +0.5 can be achieved, which is based on the maximum score for the two agents for each episode.
 
